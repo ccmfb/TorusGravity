@@ -12,3 +12,5 @@ The dependencies are: matplotlib, opencv, scipy, numpy and pandas.
 ### Example Images
 
 ![image1](/images/image1.png)
+
+![image2](/images/image2.png)
