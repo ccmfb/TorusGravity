@@ -26,7 +26,6 @@ sat1 = Sphere(
         )
 sat1.set_color('lightgray')
 
-'''
 sat2 = Sphere(
         position=(15,0,0),
         mass=1,
@@ -45,12 +44,10 @@ sat3 = Sphere(
         )
 sat3.set_color('lightgray')
 
-'''
-
 all_objects.append(planet)
 all_objects.append(sat1)
-#all_objects.append(sat2)
-#all_objects.append(sat3)
+all_objects.append(sat2)
+all_objects.append(sat3)
 
 # Simulating all positions
 simulation = Simulation(duration=30)
