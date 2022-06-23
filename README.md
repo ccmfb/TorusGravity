@@ -8,3 +8,7 @@ The animations are done using matplotlib and opencv, for this a special library 
 ### Dependencies
 
 The dependencies are: matplotlib, opencv, scipy, numpy and pandas.
+
+### Example Images
+
+![image1](/images/image1.png)
